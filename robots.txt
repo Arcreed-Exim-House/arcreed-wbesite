@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arceedeximhouse.com/sitemap.xml
